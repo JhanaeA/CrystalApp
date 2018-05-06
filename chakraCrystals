@@ -1,0 +1,11 @@
+string root = {"Red Carnelian", "Red Jasper", "Bloodstone", "Black Tourmaline", "Obsidian"}
+string sacral = {"Orange and coral calcite", "Citrine", "Orange Carnelian", "Orange Adventurine"}
+string solar_plexus = {"Amber", "Citrine", "Lemon Quartz", "Yellow Jasper", "Yellow Tourmaline", "Tiger's Eye"}
+string heart = {"Rose Quartz", "Jade", "Green Calcite", "Green Tourmaline", "Green Aventurine"}
+string throat = {"Amazonite", "Lapis Lazuli", "Turqoise", "Aquamarine"}
+string brow = {"Amethyst", "Moldavite", "Purple Fluorite", "Black Obsidian"}
+string crown {"Selenite", "Clear Quartz", "Amethyst", "Diamond"}
+string crystals = {"Red Carnelian", "Red Jasper", "Bloodstone", "Black Tourmaline", "Obsidian", "Orange and coral calcite", 
+"Citrine", "Orange Carnelian", "Orange Adventurine", "Amber", "Citrine", "Lemon Quartz", "Yellow Jasper", "Yellow Tourmaline",
+"Tiger's Eye", "Amazonite", "Lapis Lazuli", "Turqoise", "Aquamarine", "Amethyst", "Moldavite", "Purple Fluorite", "Black Obsidian",
+"Selenite", "Clear Quartz", "Amethyst", "Diamond"}
